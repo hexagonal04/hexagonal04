@@ -19,7 +19,7 @@
 ### 💻 SYSTEM_SPECS
 
 ```bash
-$ neofetch --user [Nama Kamu]
+$ neofetch --user [Bayu Alamsah]
 ```
 - **OS**: Human / Carbon-Based Lifeform 🌏
 - **CURRENT_MISSION**: Mengembangkan web-based apps
