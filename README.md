@@ -5,12 +5,13 @@
 
 <h1 align="center">⚡M. BAYU ALAMSAH⚡</h1>
 
+<!--
 <p align="center">
   <img src="https://komarev.com[USERNAME_GITHUB_ANDA]&color=00ffcc&style=flat-square&label=TRAFFIC_LOAD" alt="Profile Views" />
 </p>
+-->
 
-<p align="center">
-  <code>std::cout << "Greetings, World!" << std::endl;</code> | 
+<p align="center"> 
   <b>Fullstack Dev / Web Programmer / PC Builder</b>
 </p>
 
