@@ -60,9 +60,9 @@ $ neofetch --user [Bayu Alamsah]
 
 ```json
 {
-  "linkedin": "https://linkedin.com[USERNAME_LINKEDIN]",
-  "portfolio": "[LINK_PORTOFOLIO]",
-  "terminal_mail": "[EMAIL_KAMU]"
+  "linkedin": "https://www.linkedin.com/in/muhamad-bayu-alamsah",
+  "portfolio": "coming soon",
+  "mail": "bayu_alamsah@nuklindolab.com"
 }
 ```
 
