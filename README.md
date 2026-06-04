@@ -12,7 +12,7 @@
 -->
 
 <p align="center"> 
-  <b>Fullstack Dev / Web Programmer / PC Builder</b>
+  <b>Web Programmer / PC Builder</b>
 </p>
 
 ---
