@@ -33,7 +33,7 @@ $ neofetch --user [Bayu Alamsah]
 ### 🛠️ TECH_STACK // MODULES_LOADED
 
 - <img src="https://shields.io" /> — PHP (CI - Laravel) - HTML - CSS
-- <img src="https://shields.io" /> — Javascript - Typescript
+- <img src="https://shields.io" /> — Javascript (NextJS, ExpressJS, NodeJS, VanillaJS :v )
 - <img src="https://shields.io" /> — MySQL - MongoDB
 - <img src="https://shields.io" /> — APACHE - NGINGX - Litespeed
 - <img src="https://shields.io" /> — Netlify - Vercel - VPS - SharedHosting
