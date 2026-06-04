@@ -32,11 +32,11 @@ $ neofetch --user [Bayu Alamsah]
 
 ### 🛠️ TECH_STACK // MODULES_LOADED
 
-- <img src="https://shields.io" /> — Digunakan untuk arsitektur backend & RESTful API
-- <img src="https://shields.io" /> — Framework utama untuk pembuatan aplikasi web skala besar
-- <img src="https://shields.io" /> — Pengembangan web interaktif & logika sisi klien
-- <img src="https://shields.io" /> — Manajemen basis data relasional & optimasi kueri
-- <img src="https://shields.io" /> — Kontrol versi kode dan kolaborasi tim dalam repositori
+- <img src="https://shields.io" /> — PHP - Laravel
+- <img src="https://shields.io" /> — Javascript - Typescript
+- <img src="https://shields.io" /> — MySQL - MongoDB
+- <img src="https://shields.io" /> — APACHE - NGINGX
+- <img src="https://shields.io" /> — Netlify - vercel - VPS - SharedHosting
 
 ---
 
