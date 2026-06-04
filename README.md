@@ -30,7 +30,7 @@ $ neofetch --user [Bayu Alamsah]
 
 ---
 
-### 🛠️ TECH_STACK // MODULES_LOADED
+### 🛠️ TECH_STACK
 
 - <img src="https://shields.io" /> — PHP (CI - Laravel) - HTML - CSS
 - <img src="https://shields.io" /> — Javascript (NextJS, VueJS - ExpressJS, NodeJS, VanillaJS :v )
